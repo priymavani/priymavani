@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priy Mavani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://dribbble.com/shots/3742849-New-Products-Every-Day/attachments/9994927?mode=media"/>
+
+
+<img align="center" alt="Coding" src="[https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966](https://dribbble.com/shots/3742849-New-Products-Every-Day/attachments/9994927?mode=media)"    style="max-width: 100;  display: inline-block;" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priymavani&label=Profile%20views&color=0e75b6&style=flat" alt="priymavani" /> </p>
 
