@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priy Mavani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="https://dribbble.com/shots/3742849-New-Products-Every-Day/attachments/9994927?mode=media"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priymavani&label=Profile%20views&color=0e75b6&style=flat" alt="priymavani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priymavani" alt="priymavani" /></a> </p>
