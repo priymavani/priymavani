@@ -1,48 +1,160 @@
-<h1 align="center">Hi 👋, I'm Priy Mavani</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
-
-
-
-<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/bde44cea22b34aaed2deeae46c32d5c8.gif"    style="max-width: 100;  display: inline-block;" >
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priymavani&label=Profile%20views&color=0e75b6&style=flat" alt="priymavani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priymavani" alt="priymavani" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/priymavani" target="blank"><img src="https://img.shields.io/twitter/follow/priymavani?logo=twitter&style=for-the-badge" alt="priymavani" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **priymavani02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/priymavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priymavani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priy mavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priy mavani" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk5NDExNDcsIm5iZiI6MTc2OTk0MDg0NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjAxVDEwMTQwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzMmE2ZDY0NWU5YmI2NWJlMWFiYzk4M2NjNDExN2E3ZmU3MTczMzZlYTdkZTFmMTk5NjcyZmRjMjU1MjllMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.phxCSY1s_OMVpNnXNQOYzjmJ3cMFvVQ9DOpJBg_ZUto"
+    alt="Developer banner"
+    width="900"
+    height="300"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priymavani&show_icons=true&locale=en&layout=compact" alt="priymavani" /></p>
+# Priy Mavani 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priymavani&show_icons=true&locale=en" alt="priymavani" /></p>
+**Software Engineer** focused on building solid web applications and developing strong problem-solving skills through **Data Structures & Algorithms**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priymavani&" alt="priymavani" /></p>
+---
+
+## Currently
+
+- Building full-stack web applications using **React, Node.js, Express, MongoDB**
+- Practicing **DSA consistently** with focus on patterns and problem clarity
+- Improving code quality, structure, and real-world engineering fundamentals
+
+---
+
+## Tech Stack
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,javascript,html,css,tailwind,materialui,redux&perline=10&theme=dark" alt="Frontend"/>
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,postman&perline=7&theme=dark" alt="Backend"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,render&perline=8&theme=dark" alt="Tools"/>
+
+### Programming & DSA
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript" />
+</p>
+
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,aws&perline=6&theme=dark" alt="Learning"/>
+
+</div>
 
 
-<!--
-**priymavani/priymavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio Website
+
+<img align="right" src="https://res.cloudinary.com/dd6lqkak0/image/upload/v1769939988/hackathons/xzkrwqfo8mf5ynvrinv2.jpg" width="340" />
+
+- Personal portfolio showcasing projects and technical growth  
+- Focused on clarity, responsiveness, and clean structure  
+- Designed to present work professionally and simply  
+
+**Tech:** nextjs , MongoDB   
+**Live:** https://priymavani.me  
+**Code:** https://github.com/priymavani/Portfolio  
+
+<br clear="right"/>
+
+---
+
+### Task Bridge
+
+<img align="right" src="https://res.cloudinary.com/dd6lqkak0/image/upload/v1740054324/team_%22team%40123%22/fkq15ai5cvm22xwgtjzj.png" width="340" />
+
+- Task management application for organizing and tracking work  
+- Focused on improving clarity between tasks, status, and progress  
+- Emphasis on clean UI flow and practical functionality  
+
+**Tech:** React, Node.js, Express, MongoDB  
+**Live:** https://task-bridge-project-managment.netlify.app/
+**Code:** https://github.com/priymavani/task_bridge  
+
+<br clear="right"/>
+
+---
+
+### Odoo_StockMaster
+
+<img align="right" src="https://res.cloudinary.com/dd6lqkak0/image/upload/v1768652846/projects/jj789jdbvxhew8rceobj.png" width="340" />
+
+- Learning-focused project exploring frontend logic and component structure  
+- Worked on application flow and UI behavior  
+- Strengthened understanding of state and layout management  
+
+**Tech:** React , Node , Express , MongoDB
+**Live:** https://odoo-stock-frontend.vercel.app/
+**Code:** https://github.com/priymavani/Odoo_StockMaster  
+
+<br clear="right"/>
+---
+
+### FarmTrust-x-Hackathon
+
+<img align="right" src="https://res.cloudinary.com/dd6lqkak0/image/upload/v1748109164/farmtrust.netlify.app__1_z9feph.png" width="340" />
+
+- Hackathon project aimed at improving transparency between farmers and consumers  
+- Implemented core MERN stack concepts with team collaboration  
+- Built under real-world time constraints  
+
+**Tech:** React, Node.js, Express, MongoDB  
+**Live:** https://farmtrust.netlify.app/
+**Code:** https://github.com/priymavani/FarmTrust-x-Hackathon  
+
+<br clear="right"/>
+
+---
+
+### Extension – LinkedIn Text Formatter
+
+<img align="right" src="https://res.cloudinary.com/dd6lqkak0/image/upload/v1768653156/projects/idk9dc0jwywsjp6a5kmd.png" width="340" />
+
+- Browser extension to format and transform LinkedIn post text  
+- Built to simplify content styling and writing workflow  
+- Focused on utility-driven development  
+
+**Tech:** JavaScript  
+**Code:** https://github.com/priymavani/Extension-LinkedIn-Text-Formatter  
+
+<br clear="right"/>
+
+---
+
+
+
+
+## DSA Progress
+
+- Solving problems regularly on **LeetCode**
+- Focus on understanding patterns instead of memorization
+- Strong areas:
+  - Binary Search
+  - Two Pointers
+  - Stack & Queue
+  - Recursion
+
+🔗 https://leetcode.com/u/Priy_mavani/
+
+---
+
+## Engineering Mindset
+
+- Correct logic matters more than clever shortcuts
+- Readability and maintainability are non-negotiable
+- Fundamentals outlast frameworks
+
+---
+
+## Links
+
+- 🌐 Portfolio: https://priymavani.me  
+- 💻 GitHub: https://github.com/priymavani  
+- 🔗 LinkedIn: https://www.linkedin.com/in/priy-mavani  
+- 🧠 LeetCode: https://leetcode.com/u/Priy_mavani/
+
