@@ -63,7 +63,6 @@
 <br clear="right"/>
 
 ---
-
 ### Task Bridge
 
 <img align="right" src="https://res.cloudinary.com/dd6lqkak0/image/upload/v1740054324/team_%22team%40123%22/fkq15ai5cvm22xwgtjzj.png" width="340" />
@@ -73,7 +72,7 @@
 - Emphasis on clean UI flow and practical functionality  
 
 **Tech:** React, Node.js, Express, MongoDB  
-**Live:** https://task-bridge-project-managment.netlify.app/
+**Live:** https://task-bridge-project-managment.netlify.app/  
 **Code:** https://github.com/priymavani/task_bridge  
 
 <br clear="right"/>
@@ -88,11 +87,12 @@
 - Worked on application flow and UI behavior  
 - Strengthened understanding of state and layout management  
 
-**Tech:** React , Node , Express , MongoDB
-**Live:** https://odoo-stock-frontend.vercel.app/
+**Tech:** React, Node, Express, MongoDB  
+**Live:** https://odoo-stock-frontend.vercel.app/  
 **Code:** https://github.com/priymavani/Odoo_StockMaster  
 
 <br clear="right"/>
+
 ---
 
 ### FarmTrust-x-Hackathon
@@ -104,7 +104,7 @@
 - Built under real-world time constraints  
 
 **Tech:** React, Node.js, Express, MongoDB  
-**Live:** https://farmtrust.netlify.app/
+**Live:** https://farmtrust.netlify.app/  
 **Code:** https://github.com/priymavani/FarmTrust-x-Hackathon  
 
 <br clear="right"/>
@@ -125,7 +125,6 @@
 <br clear="right"/>
 
 ---
-
 
 
 
